@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# ML data (DVC handles this)
+ml/data/raw/
+ml/data/processed/
+
+# Models (DVC handles this too)
+ml/models/
+*.pkl
+*.csv
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

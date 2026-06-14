@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn==1.8.0
+scipy
+joblib
+fastapi
+uvicorn
+dvc
+scipy
+joblib
+pydantic
